@@ -38,12 +38,12 @@
   └─ Fronting Carrier (纯出借牌照+资产负债表，自身几乎全部再保出去)
       │  【Binding Authority / Delegated Authority Agreement】授予承保笔
       ▼
-┌──────────────────── MGA / MGU (你) ────────────────────┐
-│ Underwriting: 在授权范围内选择风险、定价、bind、出单     │
-│ Distribution: 对接经纪/代理/直客                         │
-│ Claims: 若获 delegated claims authority，可核赔(常配 TPA)│
-│ Data & Ops: 定价模型、系统、bordereaux 报送             │
-└──────────────────────────────────────────────────────────┘
+┌────────────────────── MGA / MGU (你) ──────────────────────┐
+│ Underwriting: 在授权范围内选择风险、定价、bind、出单       │
+│ Distribution: 对接经纪/代理/直客                           │
+│ Claims: 若获 delegated claims authority，可核赔(常配 TPA)  │
+│ Data & Ops: 定价模型、系统、bordereaux 报送                │
+└────────────────────────────────────────────────────────────┘
       │
       ▼
 Retail / Wholesale Brokers → 终端客户
